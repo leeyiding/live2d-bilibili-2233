@@ -40,14 +40,14 @@
             {
                 "file":"22.v2.touch.mtn",
                 "fade_in":500,
-                "fade_in":200
+                "fade_out":200
             }
         ],
         "thanking":[
             {
                 "file":"22.v2.thanking.mtn",
                 "fade_in":2000,
-                "fade_in":2000
+                "fade_out":2000
             }
         ]
     }
